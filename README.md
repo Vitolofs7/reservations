@@ -2,7 +2,7 @@
 
 _This project allows you to manage a CRUD (Create, Read, Update, Delete) of reservations in a restaurant, using a database to store the relevant information for each reservation._
 
-## Comenzando 🚀
+## Getting started 🚀
 
 _These instructions will allow you to get a copy of the project up and running on your local machine for development and testing purposes._
 
