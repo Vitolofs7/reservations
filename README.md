@@ -43,7 +43,7 @@ To create the database, run the command `php artisan migrate` in the root of you
 
 * **Victor Felipe Suárez** - *Initial work* - [Vitolofs7](https://github.com/Vitolofs7)
 
-## Licencia 📄
+## Licencse 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
