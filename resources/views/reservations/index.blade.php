@@ -34,8 +34,8 @@
                     respondiendo a todas tus preguntas. Queremos que tu visita sea memorable, así que no dudes en contactarnos para cualquier 
                     consulta adicional.
                 </p>
-                <div class="image-container" style="text-align: center; margin-top: 20px;">
-                    <img src="/img/sorza.jpg" alt="Descripción de la imagen" style="width: 432px; height: 432px;">
+                <div class="image-container">
+                    <img src="/img/sorza.jpg" alt="Descripción de la imagen">
                 </div>                
             </div>
             <div class="right-reservations">

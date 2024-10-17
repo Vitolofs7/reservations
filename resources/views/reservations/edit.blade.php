@@ -23,7 +23,7 @@
                 <label for="state">Estado</label>
                 <input type="text" name="state" class="form-control" id="state" value="{{ $reservation->state }}" required>
             </div>
-            <div style="text-align: left;">
+            <div >
                 <button type="submit" class="btn">Actualizar</button>
                 <a href="{{ route('reservations.index') }}" class="btn">Volver a la lista</a>
             </div>

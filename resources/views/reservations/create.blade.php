@@ -22,7 +22,7 @@
                 <label for="state">Estado de la Reserva</label>
                 <input type="text" name="state" class="form-control" id="state" placeholder="Ingresa el estado de la reserva" required>
             </div>
-            <div style="display: flex; justify-content: center; gap: 10px;">
+            <div>
                 <button type="submit" class="btn">Enviar Reserva</button>
                 <a href="{{ route('reservations.index') }}" class="btn">Volver a la lista</a>
             </div>
